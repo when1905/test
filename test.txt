@@ -2,4 +2,6 @@
 better
 best
 yesterday
-he&she
+no
+he and she
+
